@@ -50,4 +50,4 @@ This Jupyter notebook analyzes a dataset that explores the relationship between 
   - NumPy
   - Matplotlib
 
-#### In conclusion, our analysis of the dataset on sleep health and lifestyle reveals significant insights into how various factors, such as age and daily habits, influence sleep duration and quality. Prioritizing good sleep hygiene and making informed lifestyle choices can lead to improved overall well-being. I encourage everyone to reflect on their own sleep patterns and consider implementing some of the strategies discussed today to enhance their sleep quality. Thank you for your attention, and I’m happy to answer any questions you may have.
+#### In conclusion, our analysis of the dataset on sleep health and lifestyle reveals significant insights into how various factors, such as age and daily habits, influence sleep duration and quality. Prioritizing good sleep hygiene and making informed lifestyle choices can lead to improved overall well-being. I encourage everyone to reflect on their own sleep patterns and consider implementing some of the strategies discussed today to enhance their sleep quality.
